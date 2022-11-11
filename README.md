@@ -1,1 +1,1 @@
-# simple_shell
+TEAM PROJECT  simple_shell DICKSON JOHNSON & Oladimeji Bello
